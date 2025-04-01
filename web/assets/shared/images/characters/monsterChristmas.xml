@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="annie-monster.png">
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monsterChristmas.png">
 	<!-- Created with Adobe Animate version 20.0.0.17700 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Monster Right note0000" x="3096" y="1548" width="500" height="500" frameX="0" frameY="-200" frameWidth="700" frameHeight="1000"/>
